@@ -27,6 +27,7 @@ aws_secret_access_key = <your secret>
 ## Running it
 
 ```bash
+export AWS_PROFILE=dictionary-http4k
 ./gradlew dictionary-function:buildLambdaZip
 pulumi up --stack dev
 ```
