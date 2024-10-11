@@ -1,0 +1,7 @@
+# DictionaryApp
+
+## Package
+```
+./gradlew distZip
+```
+
