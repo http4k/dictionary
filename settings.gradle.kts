@@ -1,1 +1,1 @@
-rootProject.name = "DictionaryApp"
+rootProject.name = "dictionary"
