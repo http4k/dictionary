@@ -12,14 +12,14 @@ Deployable Dictionary app to be used as part of [Writing Test-Driven Apps with h
 *~/.aws/config*:
 
 ```
-[profile http4k-lambda-demo]
+[profile dictionary-http4k]
 region = eu-west-2
 output = json
 ```
 *~/.aws/credentials*:
 
 ```
-[http4k-lambda-demo]
+[dictionary-http4k]
 aws_access_key_id = <your key>
 aws_secret_access_key = <your secret>
 ```
