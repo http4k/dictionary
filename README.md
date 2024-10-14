@@ -1,8 +1,10 @@
-### Dictionary app 
+# Dictionary app 
 
 Deployable Dictionary app to be used as part of [Writing Test-Driven Apps with http4k](/http4k/Writing_Test_Driven_Apps_with_http4k) workshop.
 
 Currently available via https://d2abkoa8ls379e.cloudfront.net
+
+# Building and deploying
 
 ## Pre-requisites
 
@@ -26,7 +28,7 @@ aws_access_key_id = <your key>
 aws_secret_access_key = <your secret>
 ```
 
-## Running it
+## Deployment
 
 ```bash
 export AWS_PROFILE=dictionary-http4k
