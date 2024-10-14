@@ -2,6 +2,8 @@
 
 Deployable Dictionary app to be used as part of [Writing Test-Driven Apps with http4k](/http4k/Writing_Test_Driven_Apps_with_http4k) workshop.
 
+Currently available via https://d2abkoa8ls379e.cloudfront.net
+
 ## Pre-requisites
 
 * Working AWS account
